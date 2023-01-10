@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "zookeeper-cluster-client": "^1.0.1"
+    "zookeeper-cluster-client": "^2.0.0"
   }
 }
